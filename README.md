@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Mariem Smaoui</h1>
 <h3 align="center">A Software Engineering & Business Intelligence Student at IIT Sfax</h3>
-<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="500">
+<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="100">
 
 
 - 🔭 I’m currently working on **Business Intelligence and web application project**
 
-- 🌱 I’m currently learning devops **devops**
+- 🌱 I’m currently learning **devops**
 
 - 💬 Ask me about **React**
 
