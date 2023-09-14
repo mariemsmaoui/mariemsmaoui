@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="300">
 
 
-- 🔭 I’m currently working on **Business Intelligence and web application project**
+- 🔭 I’m currently working on **ECommerce web Site with react and next js **
 
 - 🌱 I’m currently learning **devops**
 
