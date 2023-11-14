@@ -4,7 +4,7 @@
 <h3 align="center">A Software Engineering & Business Intelligence Student at IIT Sfax</h3>
 
 
-- 🔭 I’m currently working on **ECommerce web Site with react and next js **
+- 🔭 I’m currently working on a **Spring Boot Application **
 
 - 🌱 I’m currently learning **devops**
 
