@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mariem Smaoui</h1>
-<h3 align="center">A Software Engineering & Business Intelligence Student at IIT Sfax</h3>
+<h3 align="center">A Software Engineering </h3>
 
 
 - 🔭 I’m currently working on  **My Final Year internship project**
