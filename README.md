@@ -1,4 +1,4 @@
-# Mariem Smaoui
+# Mariam Smaoui
 
 **Software Engineer | C#/.NET and Business Intelligence**
 
